@@ -1,4 +1,4 @@
-Sure! Here's your entire `README.md` written as **one continuous piece**, but still properly formatted so it looks good on **GitHub**. This version keeps everything in a single flow — no unnecessary breaks or sections separated by horizontal rules — but uses spacing and emojis to keep it fun and readable:
+
 
 ---
 
@@ -62,4 +62,3 @@ Pull hard, play fair, and may the strongest team win! 💥💪 If you enjoyed th
 
 ---
 
-Let me know if you want a **GIF of the game**, a **badge row**, or a **GitHub banner** added!
